@@ -1,0 +1,19 @@
+{
+  "name": "finance-app-acheivers",
+  "version": "1.0.0",
+  "description": "this project is built using React.js and php",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/Hasan.Aref.1/finance-app-acheivers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Hasan.Aref.1/finance-app-acheivers/issues"
+  },
+  "homepage": "https://gitlab.com/Hasan.Aref.1/finance-app-acheivers#readme"
+}
